@@ -1,8 +1,26 @@
-## Hi there 👋
+<h1 align="center" text="bold">Hi there 👋, I'm Chima</h1><br/>
+|🚀 Full-stack developer, passionate about AI and Finance
 
-<h1 align="center">Hi 👋, I'm Chima Chinemerem</h1>
-<h3 align="center">A Full-stack developer, passionate about AI and Finance</h3>
+-
+<h3 align="center">About Me</h3>
+<p>I specialize in building web application using modern web technologies.
+I'm also an AI and Finance Enthusiast, and I’m currently exploring opportunities to apply ML and fintech solutions to real world challenges.</p>
 
+-
+<h3>What I Do (Your Services)</h3>
+<ul>
+  <li>Website development</li>
+  <li>Fulltack Application Development</li>
+  <li>API development</li>
+  <li>SEO-driven web design</li>
+  <li>Database & backend systems</li>
+  <li>Linux server management / Deployment</li>
+</ul>
+
+-
+<h3>Tech Stack</h3>
+
+-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/divinchi8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="divinchi8" height="30" width="40" /></a>
